@@ -1,16 +1,15 @@
-### Hi there 👋
+## I'm a Fullstack developer
 
-<!--
-**Artem-Nanavov/Artem-Nanavov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
 
-Here are some ideas to get you started:
+### languages and tools
+![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=TypeScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=JavaScript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333333?style=for-the-badge&logo=Express)
+![Webpack](https://img.shields.io/badge/-Webpack-333333?style=for-the-badge&logo=Webpack)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Follow me
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-333333?style=for-the-badge&logo=VK)](https://vk.com/nanavov1)
+[![Telegram](https://img.shields.io/badge/-Vkontakte-333333?style=for-the-badge&logo=Telegram)](https://t.me/Hyrtd)
